@@ -1,5 +1,5 @@
 class Solution {
-    void check(vector<vector <int> > &vec,vector<int> ans,vector<int> candidates,int idx,int target){
+    void check(vector<vector <int> > &vec,vector<int> ans,vector<int> &candidates,int idx,int target){
         if(target<0) return;
         if(target==0){
             vec.push_back(ans);
