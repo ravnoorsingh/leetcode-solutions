@@ -19,7 +19,6 @@ public:
         }
         low = 0;
         high = arr.size()-1;
-        int second = -1;
         while(low<=high){
             int mid = low + (high-low)/2;
             if(arr[mid]==x){
