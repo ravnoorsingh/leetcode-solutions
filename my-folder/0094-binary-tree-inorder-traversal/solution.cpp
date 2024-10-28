@@ -20,26 +20,53 @@ public:
     //     helper(root->right,ans);
     // }
 
-    void InOrder(TreeNode* root,vector<int> &ans){
-        stack<TreeNode*> st;
-        TreeNode* node = root;
-        while(st.size()>0 || node!=NULL){
-            if(node!=NULL){
-                st.push(node);
-                node = node->left;
+    // Iterative solution
+    // void InOrder(TreeNode* root,vector<int> &ans){
+    //     stack<TreeNode*> st;
+    //     TreeNode* node = root;
+    //     while(st.size()>0 || node!=NULL){
+    //         if(node!=NULL){
+    //             st.push(node);
+    //             node = node->left;
+    //         }
+    //         else{
+    //             node = st.top();
+    //             st.pop();
+    //             ans.push_back(node->val);
+    //             node = node->right;
+    //         }
+    //     }
+    // }
+
+    vector<int> MorrisTraversal(TreeNode* root,vector<int> ans){
+        TreeNode* curr = root;
+        while(curr!=NULL){
+            if(curr->left!=NULL){ // Find The Predecessor
+                TreeNode* pred = curr->left;
+                while(pred->right!=NULL && pred->right!=curr){
+                    pred = pred->right;
+                }
+                if(pred->right==NULL){ // Link
+                    pred->right = curr;
+                    curr = curr->left;
+                }
+                else{ // pred->right == curr : Unlink
+                    pred->right = NULL;
+                    ans.push_back(curr->val);  // visit
+                    curr = curr->right;
+                }
             }
-            else{
-                node = st.top();
-                st.pop();
-                ans.push_back(node->val);
-                node = node->right;
+            else{ // curr->left == NULL
+                ans.push_back(curr->val);  // visit
+                curr = curr->right;
             }
         }
+        return ans;
     }
 
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        InOrder(root,ans);
-        return ans;
+        return MorrisTraversal(root,ans);
+       
     }
 };
