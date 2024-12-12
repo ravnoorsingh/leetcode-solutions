@@ -7,10 +7,12 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -19,6 +21,7 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
