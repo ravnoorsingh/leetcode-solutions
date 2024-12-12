@@ -8,6 +8,7 @@ My solutions to Leetcode.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -18,17 +19,20 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -41,6 +45,7 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +58,12 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
