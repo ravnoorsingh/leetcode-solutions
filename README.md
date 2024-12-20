@@ -63,9 +63,18 @@ My solutions to Leetcode.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
