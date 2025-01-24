@@ -6,6 +6,7 @@ My solutions to Leetcode.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -19,6 +20,7 @@ My solutions to Leetcode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
@@ -77,4 +79,8 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
