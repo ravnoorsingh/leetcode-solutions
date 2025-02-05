@@ -7,6 +7,7 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -57,6 +58,7 @@ My solutions to Leetcode.
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -83,4 +85,5 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
