@@ -6,6 +6,7 @@ My solutions to Leetcode.
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -97,4 +98,8 @@ My solutions to Leetcode.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ravnoorsingh/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
